@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-## Machine Learning course labs
+## Labs from Machine Learning (CMPS 3240) at Tulane
 
 ### Topics Include:
 * Perceptron Algorithm & Pocket Algorithm
